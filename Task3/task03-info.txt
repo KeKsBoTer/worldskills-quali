@@ -1,0 +1,11 @@
+The provided text file contains a list of money transfers between users.
+
+The lines of the file have the format
+FromUser ToUser Amount
+which means that "FromUser" transfered "Amount" of money to "ToUser".
+
+Example
+angela helmut 23.45
+where helmut received 23.45 € from angela.
+
+The balance is the resulting money (or dept) after all transfered were done. 

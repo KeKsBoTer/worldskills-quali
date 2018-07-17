@@ -1,0 +1,15 @@
+The provided text file contains a list of user ids and passwords separated by a space char. The file may contain empty lines.
+
+A password is considered secure if it follows all the rules given below:
+
+Rule 1: it contains only allowed characters (the letters a-z and A-Z and the digits 0-9)
+Rule 2: it contains at least 7 characters 
+Rule 3: it starts and ends with an upper case letter
+Rule 4: it contains more lower case letters than digits
+Rule 5: it must not contain two consecutive digits 	
+
+Examples 
+
+Zeus73 A8blRkjhX - secure password
+Athene77 Qi77=iP - insecure, because it breaks rule 1, 4 and 5
+Hera3 At - insecure, because it breaks rule 2 and 3
