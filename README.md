@@ -1,11 +1,6 @@
 # world-skills
 
-## Task 1
-## Task 2
-## Task 3
-## Task 4
-
-Largest found:
+Largest found palindroms:
 
 | Start | Length of arguments | Palindrom           |
 | ----- | ------------------- | ------------------- |
